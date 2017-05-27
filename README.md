@@ -1,3 +1,5 @@
 # presentations
 slides and codes of my presentations
-- [TU Vienna](https://sevamoo.github.io/presentations_repo/Vienna_ATTP_20170317.html)
+- [PyData Zurich February 2017](https://sevamoo.github.io/presentations/PyData_20170216.html)
+- [TU Vienna, March 2017](https://sevamoo.github.io/presentations/Vienna_ATTP_20170317.html)
+
