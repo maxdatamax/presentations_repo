@@ -1,6 +1,6 @@
 # presentations
 
-## slides and codes of my recent talks
+## My recent talks
 - [Machine Intelligence Summit, Amsterdam, June 2017](http://www.caad.arch.ethz.ch/blog//wp-content/uploads/vahid/assets/player/KeynoteDHTMLPlayer.html)
 
 - [TU Vienna, March 2017](https://sevamoo.github.io/presentations_repo/Vienna_ATTP_20170317.html)
