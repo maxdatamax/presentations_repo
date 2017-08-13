@@ -1,6 +1,6 @@
 # presentations
 
-## My recent talks
+### My recent talks
 - [Machine Intelligence Summit, Amsterdam, June 2017](http://www.caad.arch.ethz.ch/blog//wp-content/uploads/vahid/assets/player/KeynoteDHTMLPlayer.html)
 
 - [TU Vienna, March 2017](https://sevamoo.github.io/presentations_repo/Vienna_ATTP_20170317.html)
@@ -9,7 +9,7 @@
 
 
 
-## My presentations for the PhD seminar series I hold at ETH Zurich
+### My presentations for the PhD seminar series at ETH Zurich
 
 1- [Introduction to Data_Driven Modeling 20160919](https://sevamoo.github.io/presentations_repo/01_Introduction_to_Data_Driven_Modeling_20160919.html)
 
